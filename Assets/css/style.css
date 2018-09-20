@@ -49,6 +49,14 @@ p  {
     margin-top: 5px;
 }
 
+img #photo1 {             /* Photos in Portfolio.html uneven gaps and alignment should be: 
+                                    two photos across 
+                                    two photos across
+                                    0ne photo across  */                                  
+    margin-right: 5px;    
+
+}
+
 footer {
    color: white;
    background-color: darkgrey;
