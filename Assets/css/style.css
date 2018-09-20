@@ -3,7 +3,7 @@
 }
 
 .name-nav {
-    color: white;       /* font color is not changed to white */
+    color: white;       /* font color is not changed to white instead-black */
     background-color: turquoise;
     padding: 20px;        
     margin-left: 30px;
@@ -55,6 +55,16 @@ img #photo1 {             /* Photos in Portfolio.html uneven gaps and alignment 
                                     0ne photo across  */                                  
     margin-right: 5px;    
 
+}
+
+.name-submit {
+    color: white;       /* font color is correct color-white */
+    background-color: turquoise;
+    padding: 12px;        
+    margin-left: 5px;
+    font-family:  serif, "Times New Roman", Times;
+    font-size: 14px;
+    font-weight: bold;
 }
 
 footer {
