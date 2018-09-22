@@ -3,7 +3,7 @@
 }
 
 .name-nav {
-    color: white;       /* font color is not changed to white instead-black */
+    color: white;       
     background-color: turquoise;
     padding: 20px;        
     margin-left: 30px;
@@ -12,8 +12,12 @@
     font-weight: bold;
 }
 
-.nav-item {
-   float: right;    /* The 3 items in the list won't float right */
+.navbar-nav {
+   margin-left: 600px;    
+}
+
+.nav-link {
+    color: red;     
 }
 
 .container-fluid {
@@ -49,12 +53,8 @@ p  {
     margin-top: 5px;
 }
 
-img #photo1 {             /* Photos in Portfolio.html uneven gaps and alignment should be: 
-                                    two photos across 
-                                    two photos across
-                                    0ne photo across  */                                  
-    margin-right: 5px;    
-
+.caption {                                                   
+    text-align: center;    
 }
 
 .name-submit {
